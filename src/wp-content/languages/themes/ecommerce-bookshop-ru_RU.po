@@ -1,0 +1,116 @@
+# Translation of Themes - Ecommerce Bookshop in Russian
+# This file is distributed under the same license as the Themes - Ecommerce Bookshop package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-21 10:27:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Ecommerce Bookshop\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Ecommerce Bookshop is a theme for Public Library & Book Store. Anyone can use it as it is multipurpose for the app store, book, book author, book publisher, bookseller, book shop, book shopping, book store, digital books, e-learning, e-books, newspaper, online book store, selling e-books, PDFs online, course providers, online courses music and game selling sites. Ecommerce Bookshop has many responsive features such as Clean, user-friendly, responsive, beautiful, accessible, personalization options, testimonial section, and Banner. This theme is compatible with the most popular event calendar. It displays what's coming up and notifies users about the cost of workshops, classes, or other events. Page Builder is used to creating the theme. There are many unique features that this theme supports, including retina-ready, professional and personalization options. You can also customize the options with customization options and multipurpose. It is translation ready. This theme is specifically designed for e-commerce websites. It also allows you to display your business information and the possibility of selling products online. This theme is perfect for e-commerce websites and shops. It can be used to create e-commerce websites for any online store, including fashion, shoes, jewellery, sport, technology, and mobile."
+msgstr "Ecommerce Bookshop — это тема для публичной библиотеки &amp; Книжный магазин. Любой может использовать его, так как он многоцелевой для магазина приложений, книги, автора книги, книгоиздателя, продавца книг, книжного магазина, покупки книг, книжного магазина, темы магазина книг, цифровых книг, электронного обучения, электронных книг, библиотеки, газета, интернет-магазин книг, продажа электронных книг, PDF-файлов в Интернете, поставщики курсов, онлайн-курсы, сайты по продаже музыки и игр. Книжный магазин электронной коммерции имеет множество адаптивных функций, таких как чистый, удобный, отзывчивый, красивый, доступный, профессиональный, параметры персонализации, раздел отзывов и баннер. Эта тема совместима с самым популярным календарем событий. Он отображает предстоящие события и уведомляет пользователей о стоимости семинаров, занятий и других мероприятий. Page Builder используется для создания темы. Эта тема поддерживает множество уникальных функций, в том числе готовые к сетчатке глаза, профессиональные и персонализированные параметры. Вы также можете настроить параметры с помощью параметров настройки и многоцелевого использования. Перевод готов. Эта тема специально разработана для сайтов электронной коммерции. Это также позволяет отображать информацию о вашем бизнесе и возможность продажи продуктов в Интернете. Эта тема идеально подходит для сайтов электронной коммерции и магазинов. Его можно использовать для создания веб-сайтов электронной коммерции для любого интернет-магазина, включая моду, обувь, ювелирные изделия, спорт, технологии и мобильные устройства."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Ecommerce Bookshop"
+msgstr "Ecommerce Bookshop"
+
+#: customizer/customizer.php:39
+msgid "Show / Hide for  Announcement Text"
+msgstr "Текст объявления: показать/скрыть"
+
+#: customizer/customizer.php:29
+msgid "Latest Event Settings"
+msgstr "Настройки последних мероприятий"
+
+#: template-parts/footer/site-info.php:12
+msgid "By Themespride"
+msgstr "От ThemesPride"
+
+#: functions.php:230
+msgid "Ecommerce Bookshop WordPress Theme"
+msgstr "Тема Ecommerce Bookshop WordPress"
+
+#: functions.php:200
+msgid "Ecommerce Bookshop Pro"
+msgstr "Ecommerce Bookshop Pro"
+
+#: functions.php:101
+msgid "Footer 4"
+msgstr "Подвал 4"
+
+#: functions.php:91
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+#: functions.php:81
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+#: functions.php:73 functions.php:83 functions.php:93 functions.php:103
+msgid "Add widgets here to appear in your footer."
+msgstr "Добавьте сюда виджеты для отображения в подвале сайта."
+
+#: functions.php:71
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+#: functions.php:61
+msgid "Sidebar 3"
+msgstr "Область виджетов 3"
+
+#: functions.php:53
+msgid "Add widgets here to appear in your sidebar on pages."
+msgstr "Добавить здесь виджеты, которые будут появляться в области виджетов страниц."
+
+#: functions.php:51
+msgid "Page Sidebar"
+msgstr "Область виджетов страницы"
+
+#: functions.php:43 functions.php:63
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Добавьте сюда виджеты для их помещения в область виджетов в записях блога и страницах архива."
+
+#: functions.php:41
+msgid "Blog Sidebar"
+msgstr "Область виджетов блога"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:64 template-parts/home/slider.php:59
+msgid "Next"
+msgstr "Следующий"
+
+#: comments.php:63 template-parts/home/slider.php:55
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s ответ на &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s ответа на &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s ответов на &ldquo;%2$s&rdquo;"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themespride.com/"
+msgstr "https://www.themespride.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemesPride"
+msgstr "ThemesPride"
